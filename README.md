@@ -1,6 +1,8 @@
 # Advanced-Search-Filter-App
 <br/>
- `You can search the substring of a string also.`
+ You can search the substring of a string also.
+ 
+<br/>
 <br/>
 This is the advance search filter for android.
 The standard text view adapter only seems to search from the beginning of whole words 
