@@ -32,6 +32,6 @@ Now you can use this SearchableAdapter class instead of Arrayadapter class in yo
 
 ```
 SearchableAdapter adapter = 
-                            new SearchableAdapter(Context, List<String
+                            new SearchableAdapter(Context, List<String);
 ```
 
