@@ -1,2 +1,3 @@
 rootProject.name='Search Filters'
 include ':app'
+include ':customizedarrayadapter'
