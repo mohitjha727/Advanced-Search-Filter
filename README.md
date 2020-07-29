@@ -28,7 +28,8 @@ dependencies {
 ```
 
 ## Usage
-Now you can use this SearchableAdapter class instead of Arrayadapter class in your project.<br/>
+Now you can use this SearchableAdapter class instead of Arrayadapter class in your project 
+and can apply the same methods that you use with Arrayadapter class.<br/>
 
 ```
 SearchableAdapter adapter = 
