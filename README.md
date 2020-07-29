@@ -23,7 +23,7 @@ allprojects {
 ##### Step 2. Add the dependency in your build.gradle(module).
 ```
 dependencies {
-	        implementation 'com.github.mohitjha727:Advanced-Search-Filter:Tag'
+	        implementation 'com.github.mohitjha727:Advanced-Search-Filter:0.0.1'
 	}
 ```
 
