@@ -7,8 +7,8 @@
 This is the advance search filter for android.
 The standard text view adapter only seems to search from the beginning of whole words 
 so using this library can make it possible to search 
-for parts of the arbitrary string we want.<br/>
-<br/>
+for parts of the arbitrary string we want.
+
 ## Implementation
 
 ##### Step 1. Add it in your root build.gradle(project) at the end of repositories:
@@ -30,6 +30,8 @@ dependencies {
 ## Usage
 Now you can use this SearchableAdapter class instead of Arrayadapter class in your project.<br/>
 
-```SearchableAdapter adapter = 
-                            new SearchableAdapter(Context, List<String>); ```
+```
+SearchableAdapter adapter = 
+                            new SearchableAdapter(Context, List<String
+```
 
