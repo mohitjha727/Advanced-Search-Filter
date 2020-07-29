@@ -29,5 +29,7 @@ dependencies {
 
 ## Usage
 Now you can use this SearchableAdapter class instead of Arrayadapter class in your project.<br/>
-```SearchableAdapter adapter = new SearchableAdapter(Context, List<String>); ```
+
+```SearchableAdapter adapter = 
+                            new SearchableAdapter(Context, List<String>); ```
 
