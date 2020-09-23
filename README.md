@@ -36,3 +36,6 @@ SearchableAdapter adapter =
                             new SearchableAdapter(Context, List<String>);
 ```
 
+
+## License
+Licensed under the Apache License, Version 2.0
